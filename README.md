@@ -1,5 +1,4 @@
-# negri.change.supplement
-Supplementary material for Journal of Glaciology article titled "Progression of the surge in the Negribreen Glacier System from two years of ICESat-2 measurements" by Thomas Trantow and Ute C. Herzfeld (2024).
+# Supplementary material for Journal of Glaciology article titled "Progression of the surge in the Negribreen Glacier System from two years of ICESat-2 measurements" by Thomas Trantow and Ute C. Herzfeld (2024).
 ## (1) negri.change.suppl.pdf:
 A figure file containing a full collection of enlarged ICESat-2 time series plots for all beams and RGTs. This file also contains a summarizing table of the data found in negri_data_2019_2020.xlsx, providing ice-signal fractions and survey lengths over the NEgribreen Glacier System for each RGT beam pass.
 ## (2) negri_data_2019_2020.xlsx:
